@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/shapeargv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shape host/argv network string helpers for config audits.",
+  "bin": {
+    "shapeargv": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/shapeargv.git"
+  },
+  "homepage": "https://theworker02.github.io/shapeargv/",
+  "keywords": [
+    "shape",
+    "argv",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
